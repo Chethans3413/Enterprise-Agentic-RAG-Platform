@@ -274,20 +274,3 @@ Every push to `main` triggers a GitHub Actions workflow that:
 This ensures retrieval quality never silently degrades across commits.
 
 ---
-
-## 🔮 Roadmap
-
-- [ ] LLM fine-tuning with LoRA/QLoRA on domain-specific documents
-- [ ] Multi-document cross-referencing
-- [ ] Cloud deployment (GCP Cloud Run)
-- [ ] Streaming responses via Server-Sent Events
-- [ ] Support for DOCX, CSV, and web URL ingestion
-
----
-
-## 👩‍💻 Author
-
-**Athira Anil Kumar** — AI Engineer | Generative AI | LLM Systems  
-📍 Sharjah, UAE  
-🔗 [LinkedIn](https://www.linkedin.com/in/athira-a-k) · [GitHub](https://github.com/ara-5)  
-📄 [IEEE Publication — Phishing Detection with DistilBERT & Explainable AI](https://ieeexplore.ieee.org/document/11407086)
